@@ -1,0 +1,36 @@
+projects:
+#   - title: "TBD"
+#     id: TBD
+#     category:
+#         - "research"
+#     tags:
+#         - '# Develop'
+#         - '# Web'
+#     image: TBA.jpg
+#     detail: "TBA "
+#     description: |
+#         <p>Undergraduate <br><br></p>
+#         <p>Led by <a href="">A</a>, with my wonderful colleagues, B and C</p>
+#         # <img src="site.baseurl/assets/images/projects_detail/TBD.jpg" class="img-responsive">
+#         <p style="text-align: center; font-size: 14px;"><b>An example of TBA</b></p>
+#         <hr>
+#         <p><b>[What I'm doing in this project]</b><br>TBA</p>
+
+  - title: "Dreaming Developers"
+    id: dev-dreamers
+    category:
+        - "develop"
+    tags:
+        - '# Develop'
+        - '# Personal'
+        - '# Web'
+    image: dreamdevintro.png
+    detail: "Team Building Platform for Undergraduate Developers "
+    description: |
+        <p>Undergraduate Developers frequently meet the difficulty to gather team to make and develop with. We provided such a nice alternative platform than other community sites for those. <br><br></p>
+        <p>Led by <a href="">Young-Uk Song</a>, with my wonderful colleagues, MinSung Kwon and ByeongHyeok Kwak</p>
+        <p>I'd quit because of my busy works caused by millitary services.</p>
+        <img src="site.baseurl/assets/images/projects_detail/dreamdev.png" class="img-responsive">
+        <p style="text-align: center; font-size: 14px;"><b>Photos of Mainpage</b></p>
+        <hr>
+        <p><b>[What I'm doing in this project]</b><br>FrontEnd Develop based Vue.js, HTML, CSS3</p>
